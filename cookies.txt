@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.oakleybaptistchurch.com	TRUE	/	FALSE	1999999999	__cf_bm	S.iiZfME9N_7QKQlYgxRyRFUOPLw8quaKK7s94LCS0U-1756410614-1.0.1.1-QA.mquU.dY1JfC6xqAn9PVTmOIovu_IAgAAzfDurLeIyCE2IB1xj32ub6LWiik0FjVCXi7LgyQrTPVAnl7PoVqcqY0gbaz3IxMsuIzoZO3A
+oakleybaptistchurch.com	TRUE	/	FALSE	1999999999	SameSite	None
+

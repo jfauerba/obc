@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 28 Aug 2025 15:49:30 at https://oakleybaptistchurch.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://oakleybaptistchurch.com/ -O1 "C:\obc-website\obc" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:49:47	Error: 	"Method Not Allowed" (405) at link https://oakleybaptistchurch.com/xmlrpc.php (from https://oakleybaptistchurch.com/)
+15:50:14	Warning: 	Moved Permanently for https://oakleybaptistchurch.com/?p=265
+15:50:14	Warning: 	File has moved from https://oakleybaptistchurch.com/?p=265 to https://oakleybaptistchurch.com/about-us/
+15:50:14	Warning: 	Moved Permanently for https://oakleybaptistchurch.com/?p=277
+15:50:14	Warning: 	File has moved from https://oakleybaptistchurch.com/?p=277 to https://oakleybaptistchurch.com/media/
+15:50:14	Warning: 	Moved Permanently for https://oakleybaptistchurch.com/?p=284
+15:50:14	Warning: 	File has moved from https://oakleybaptistchurch.com/?p=284 to https://oakleybaptistchurch.com/contact-us/
+
+HTTrack Website Copier/3.49-2 mirror complete in 44 seconds : 138 links scanned, 132 files written (29482524 bytes overall) [27871104 bytes received at 633434 bytes/sec], 2134549 bytes transferred using HTTP compression in 43 files, ratio 19%, 8.8 requests per connection
+(1 errors, 6 warnings, 0 messages)
